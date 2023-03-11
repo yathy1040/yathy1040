@@ -1,6 +1,6 @@
 - Hi there 👋
-My name is Yathusan Thulasinathan, I am in my final year of University at Brock University.
-This is under construction right now but, I will add more into this Readme file.
+- My name is Yathusan Thulasinathan, I am in my final year of University at Brock University.
+- This is under construction right now but, I will add more into this Readme file.
 - 🌱 I’m currently learning: React, C
 
 
