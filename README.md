@@ -1,7 +1,7 @@
 - Hi there 👋
-- My name is Yathusan Thulasinathan, I am in my final year of University at Brock University.
+- My name is Yathusan Thulasinathan, I am in my Masters in Comp Sci degree right now.
 - This is under construction right now but, I will add more into this Readme file.
-- 🌱 I’m currently learning: React, C
+- 🌱 I’m currently learning: Kubernetes
 
 
 <!--
