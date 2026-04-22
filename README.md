@@ -21,11 +21,6 @@ Full-stack web application for tracking job applications, interviews, companies,
 
 **Tech:** React, TypeScript, Node.js, Express, PostgreSQL, AWS
 
-### Transformer-Based Intrusion Detection
-Machine learning research project using transformer models for packet-level intrusion detection.
-
-**Tech:** Python, PyTorch, Hugging Face, scikit-learn
-
 ### 5G Core Testbed
 Cloud-native 5G Core deployment used to support network security research experiments.
 
@@ -41,5 +36,5 @@ Cloud-native 5G Core deployment used to support network security research experi
 ## Contact
 
 - GitHub: [github.com/yathy1040](https://github.com/yathy1040)
-- LinkedIn: [Add your LinkedIn]
-- Portfolio: [Add your portfolio]
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yathusan-t/)
+- Portfolio: [Portfolio Site](https://yathusan.dev/)
