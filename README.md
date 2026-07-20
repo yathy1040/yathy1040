@@ -36,7 +36,7 @@ A deployed full-stack platform for managing job applications, companies, intervi
 
 Built a cloud-native 5G core testbed and evaluated transformer-based intrusion-detection models against an LSTM baseline using precision, recall, and F1 score.
 
-[View the 5G core testbed repository](https://github.com/yathy1040/free5gc-k8s)
+[Read the MSc thesis](https://hdl.handle.net/10464/19789) · [View the 5G core testbed repository](https://github.com/yathy1040/free5gc-k8s)
 
 * Deployed and maintained a free5GC testbed using Kubernetes.
 * Compared BERT, DistilBERT, RoBERTa, and ALBERT models.
