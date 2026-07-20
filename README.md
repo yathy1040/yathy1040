@@ -1,40 +1,61 @@
 # Hi, I'm Yathusan 👋
 
-I'm a recent Master's graduate in Computer Science interested in software engineering, full-stack development, cloud deployment, machine learning, and network security.
+**Software Developer | MSc in Computer Science**
 
-I enjoy building practical applications, learning new technologies, and solving technical problems across web development, ML, and infrastructure.
+I'm a recent Master's graduate in Computer Science focused on building full-stack applications, cloud-native systems, and practical software that solves real problems.
 
-## Skills
+I'm currently seeking entry-level software engineering and full-stack development opportunities in Canada.
 
-- **Languages:** Python, JavaScript, TypeScript, Java, C++
-- **Frontend:** React, HTML, CSS, Tailwind CSS
-- **Backend:** Node.js, Express, REST APIs
-- **Databases:** PostgreSQL, MongoDB
-- **ML/AI:** PyTorch, Hugging Face, scikit-learn
-- **Cloud/DevOps:** AWS, Docker, Kubernetes, GitHub Actions
-- **Tools:** Git, Linux, VS Code, Postman
+[Portfolio](https://yathusan.dev/) · [LinkedIn](https://www.linkedin.com/in/yathusan-t/)
 
-## Featured Work
+## Featured Project
 
-### Job Hunt Command Center (work in progress)
-Full-stack web application for tracking job applications, interviews, companies, notes, and outcomes.
+### [Job Hunt Command Center](https://github.com/yathy1040/JobHuntCenter)
 
-**Tech:** React, TypeScript, Node.js, Express, PostgreSQL, AWS
+A deployed full-stack platform for managing job applications, companies, interviews, tasks, follow-ups, and job-search analytics.
 
-### 5G Core Testbed
-Cloud-native 5G Core deployment used to support network security research experiments.
+[Live Demo](https://job-hunt-center.vercel.app/) · [Source Code](https://github.com/yathy1040/JobHuntCenter)
 
-**Tech:** Kubernetes, Python, Shell, Linux, free5GC
+<a href="https://job-hunt-center.vercel.app/">
+  <img src="https://raw.githubusercontent.com/yathy1040/JobHuntCenter/main/public/screenshots/dashboard.png" alt="Job Hunt Command Center dashboard" width="800">
+</a>
 
-## Currently Learning
+* Built authenticated, user-scoped workflows using GitHub OAuth.
+* Implemented application, company, interview, and task management.
+* Created searchable table and Kanban-style application views.
+* Designed a relational PostgreSQL data model with Prisma migrations.
+* Added dashboard metrics, analytics, filtering, and follow-up tracking.
+* Tested core functionality with Vitest, Testing Library, and Playwright.
+* Deployed the application with a production PostgreSQL database.
 
-- Production-style full-stack development
-- AWS deployment
-- CI/CD with GitHub Actions
-- System design fundamentals
+**Stack:** Next.js, TypeScript, React, Tailwind CSS, PostgreSQL, Prisma, Auth.js, Docker, Vitest, Playwright, Vercel
 
-## Contact
+## Research and Infrastructure
 
-- GitHub: [github.com/yathy1040](https://github.com/yathy1040)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yathusan-t/)
-- Portfolio: [Portfolio Site](https://yathusan.dev/)
+### MSc Research — Intrusion Detection for 5G Core Networks
+
+Built a cloud-native 5G core testbed and evaluated transformer-based intrusion-detection models against an LSTM baseline using precision, recall, and F1 score.
+
+* Deployed and maintained a free5GC testbed using Kubernetes.
+* Compared BERT, DistilBERT, RoBERTa, and ALBERT models.
+* Automated Kubernetes cluster setup, teardown, and networking configuration.
+* Diagnosed and resolved critical issues across the research testbed.
+* Worked with Python, Shell, Linux, Kubernetes, PyTorch, and Hugging Face.
+
+[View the testbed automation repository](https://github.com/yathy1040/testbed-automator)
+
+## Technical Toolkit
+
+* **Languages:** TypeScript, JavaScript, Python, Java, C++
+* **Full Stack:** Next.js, React, Node.js, Express, REST APIs, Tailwind CSS
+* **Databases:** PostgreSQL, MongoDB, Prisma
+* **Cloud and Infrastructure:** AWS, Docker, Kubernetes, GitHub Actions, Linux
+* **Machine Learning:** PyTorch, Hugging Face, scikit-learn
+* **Testing:** Vitest, Testing Library, Playwright
+* **Tools:** Git, GitHub, VS Code, Postman
+
+## Let's Connect
+
+* [Portfolio](https://yathusan.dev/)
+* [LinkedIn](https://www.linkedin.com/in/yathusan-t/)
+* [Job Hunt Command Center](https://job-hunt-center.vercel.app/)
