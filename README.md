@@ -32,17 +32,17 @@ A deployed full-stack platform for managing job applications, companies, intervi
 
 ## Research and Infrastructure
 
-### MSc Research — Intrusion Detection for 5G Core Networks
+### [MSc Research — Intrusion Detection for 5G Core Networks](https://github.com/yathy1040/free5gc-k8s)
 
 Built a cloud-native 5G core testbed and evaluated transformer-based intrusion-detection models against an LSTM baseline using precision, recall, and F1 score.
+
+[Read the MSc thesis](https://github.com/yathy1040/free5gc-k8s/blob/main/research/Transformer-Based-Intrusion-Detection-for-5G-Core-Networks.pdf) · [View the 5G core testbed repository](https://github.com/yathy1040/free5gc-k8s)
 
 * Deployed and maintained a free5GC testbed using Kubernetes.
 * Compared BERT, DistilBERT, RoBERTa, and ALBERT models.
 * Automated Kubernetes cluster setup, teardown, and networking configuration.
 * Diagnosed and resolved critical issues across the research testbed.
 * Worked with Python, Shell, Linux, Kubernetes, PyTorch, and Hugging Face.
-
-[View the testbed automation repository](https://github.com/yathy1040/testbed-automator)
 
 ## Technical Toolkit
 
