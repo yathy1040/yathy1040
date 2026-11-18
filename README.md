@@ -1,6 +1,11 @@
+<p align="center">
+  <img src="./github-banner.png"
+       alt="Yathusan Thulasinathan - Software Developer"
+       width="100%">
+</p>
+
 # Hi, I'm Yathusan 👋
 
-**Software Developer | MSc in Computer Science**
 
 I'm a recent Master's graduate in Computer Science focused on building full-stack applications, cloud-native systems, and practical software that solves real problems.
 
